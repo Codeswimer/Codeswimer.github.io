@@ -1,0 +1,36 @@
+
+body{
+    text-align: center;
+    background-color: aqua;
+}
+img{
+    width: 800px;
+    height: 250px
+}
+
+div{
+    padding: 10px;
+    background-color: azure;
+    width: 400px;
+}
+
+#main{
+    color: goldenrod;
+    font-style: italic;
+    font-display:fallback;
+    font-variant: small-caps;
+    font-size: 50px;
+    text-shadow: 20px;
+    shape-rendering: crispEdges;
+    text-rendering: geometricPrecision;
+}
+
+button{
+    background-color: rgb(2, 2, 43);
+    width: 80;
+    text-decoration-color: rgb(195, 195, 3);
+}
+
+button:hover{
+    background-color: chartreuse;
+}
